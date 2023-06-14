@@ -1,0 +1,52 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Inter', sans-serif;
+	background: url(bg-food.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+	color: #bdd410;
+	font-size: 3rem;
+}
+
+hr {
+    margin: 20px auto;
+    color: #fd870d;
+    border: 3px solid #fd870d;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.buffer{
+	height:3rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-xl {
+	padding: 1rem 3rem;
+}
+
+.btn-primary{
+	background-color: #fd870d;
+	border-color: #fd870d;
+	--bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #bdd410;
+    --bs-btn-active-border-color: #bdd410;
+}
+
+.btn-primary:hover{
+	background-color: #d0791f;
+	border-color: #d0791f;
+	border-width: 3px;
+}
+
