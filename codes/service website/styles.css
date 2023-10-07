@@ -1,0 +1,59 @@
+/* Basic styling for the service website */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 0.3fr;
+}
+
+header {
+  background-color: #f2f2f2;
+/*  padding: 10px;*/
+}
+
+nav {
+  background-color: #f2f2f2;
+  color: #0d0c0c;
+  padding: 30px;
+
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #0d0c0c;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
