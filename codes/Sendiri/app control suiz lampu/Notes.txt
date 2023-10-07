@@ -1,0 +1,36 @@
+apa
+dia boleh buat?
+control on off dari phone
+hardware apa yang boleh control current dan ada bluetooth?
+-transistor?
+berapa volt lalu dekat suiz lampu
+-
+
+sebab apa
+malas bangun dari katil bila dah baring masa tengah main fon
+boleh jual dekat orang
+
+macam mana
+[1] nak buat?
+1. kena wiring suiz lampu
+2. buat satu device ganti suiz lampu yang sedia ada
+3. device tu boleh bluetooth
+4. app dekat fon boleh connect dan hantar arahan
+5. device selepas connected, after got instruction, will connect or stop the current. 
+6. smart switch
+7. dia ada dua part, software and hardware.
+8. hardware part, perlukan relay, wiring, designing case
+9. software part, download android app, make android app
+10. how to use javascript to make android app?
+ - using react native
+
+[2] macam mana nak buat android app guna javascript, html, dan css?**CONTINUE**
+
+Ni sumber2 rujukan
+1. https://www.youtube.com/watch?v=yjzumqzJpM8&t=43s
+
+
+berapa
+1. harga relay tu?
+- dalam rm20
+
