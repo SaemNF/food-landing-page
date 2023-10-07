@@ -23,6 +23,7 @@ macam mana
 9. software part, download android app, make android app
 10. how to use javascript to make android app?
  - using react native
+ - belajar git github
 
 [2] macam mana nak buat android app guna javascript, html, dan css?**CONTINUE**
 
